@@ -1,1 +1,1 @@
-Enhance text generation with GPT model
+Update README with API usage examples
