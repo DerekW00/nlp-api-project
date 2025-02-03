@@ -1,1 +1,1 @@
-Fix bug in sentiment analysis endpoint
+Refactor Docker and Kubernetes setup
