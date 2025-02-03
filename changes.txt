@@ -1,1 +1,1 @@
-Deploy API to Kubernetes cluster
+Enhance text generation with GPT model
