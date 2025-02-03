@@ -1,1 +1,1 @@
-Write Kubernetes deployment config
+Write Kubernetes service config
