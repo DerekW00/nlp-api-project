@@ -1,1 +1,1 @@
-Initialize project structure
+Set up FastAPI application
