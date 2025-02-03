@@ -1,1 +1,1 @@
-Add API documentation using FastAPI docs
+Improve Dockerfile for smaller image size
