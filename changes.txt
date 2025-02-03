@@ -1,1 +1,1 @@
-Add text generation endpoint
+Write Kubernetes deployment config
