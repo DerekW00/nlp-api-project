@@ -2,3 +2,14 @@ venv/
 __pycache__/
 *.pyc
 Dockerfile
+# Environment variables
+.env
+
+# Dependency lock files
+*.pip
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
